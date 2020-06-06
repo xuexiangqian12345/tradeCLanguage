@@ -8,6 +8,7 @@
   7.结构枚举宏定义 8字符串库函数的使用
   面试相关：与零值的比较 memcpy的使用 位操作 函数返回指针(不能局部除非static) typedef  数组退化 位操作
   //测试offer分支
+  //git的ui使用
   */
 
 #define NUM1 20
